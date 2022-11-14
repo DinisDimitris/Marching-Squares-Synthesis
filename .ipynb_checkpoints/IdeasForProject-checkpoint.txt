@@ -1,0 +1,3 @@
+How will the dataset look like? Compare to mnist digit data set. Explain why mnist image res is 28x28, why size is 70k 
+Compare different datasets? Random sampling vs uniform distributions. What is the optimal data set size?
+Compare inference results, show the loss of the model. 
