@@ -1,6 +1,7 @@
 # Marching-Squares-Synthesis
 This repository aims to create a generative and a discriminative model that can synthesize outputs of the marching squares algorithm. 
 
+![Alt text](summarypic.png?raw=true "classifying procedurally generated shapes")
 The marching squares algorithm is a classical computer graphics algorithm that can generate 2d contour meshes given rectangular matrix-like data. Given the correct input scalar field and isovalue, the algorithm can generate a contour describing any 2d shape. There are two hypotheses we want to prove:
 
 Investigate whether an AI model can predict the geometrical shape of a given 2d mesh. 
